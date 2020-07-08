@@ -20,7 +20,7 @@ words. A user can look for a specific subject by entering a query, the input que
 and the results are fetched from the database. The corresponding term and the terms that are closest
 to it in the database are displayed as the output along with metadata of related documents.
 
-#User Manual
+# User Manual
 
     1. Download and install Python environment (Version 2.7 and 3.6).
     2. Install Mysql.
