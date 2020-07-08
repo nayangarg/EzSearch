@@ -1,0 +1,14 @@
+venv/data/
+venv/edgelists/
+venv/graphs/
+venv/keys/
+venv/positions/
+venv/SCScore/
+venv/SCScore_W/
+venv/wordList/
+venv3.6/ExportedLL.csv
+venv3.6/vector.txt
+venv3.6/vocab.txt
+glove/cooccurrence.bin
+glove/cooccurrence.shuf.bin
+glove/corpus.txt
